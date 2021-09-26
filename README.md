@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn5.vectorstock.com/i/1000x1000/72/34/woman-web-developer-or-programmer-working-in-front-vector-35497234.jpg" height="175px"/></a>
+
 
 ### Hi there 👋
 
