@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+I am HOUDA JOUHAR. I'm Web & Mobile Engineering Student at ENSIAS (National School of Computer Science and System Analysis) on Rabat.
+I'm always ready to learn new skills and looking for better opportunities to start new adventures. Very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market.
 <!--
 **houdajh/houdajh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
