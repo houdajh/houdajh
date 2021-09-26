@@ -72,3 +72,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/jouhar-houda-245035177/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=houdajh">
+</a>
+<a href="https://github.com/houdajh?tab=followers"><img src="https://img.shields.io/github/followers/houdajh?label=Followers&style=social" alt="GitHub Badge"></a>
