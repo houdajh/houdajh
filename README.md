@@ -27,7 +27,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/480/spring-logo.png"  height="40px" width="40px"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/480/spring-logo.png"  height="50px" width="50px"/> </a>
    <a href="https://www.oracle.com/fr/java/technologies/java-ee-glance.html" target="_blank"> <img src="https://ocs-consulting.be/wp-content/uploads/2018/03/java-ee-logo.png" width="48"/> </a> 
 	 <a href="https://www.php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="48"/> </a>
    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="django" width="45" height="45"/> </a>   
