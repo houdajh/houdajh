@@ -28,7 +28,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/480/spring-logo.png"  height="50px" width="50px"/> </a>
-	<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/symfony_black_01.png?itok=mh6RAYNa"  height="50px" width="50px"/> </a>
+	<a href="https://symfony.com/" target="_blank"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/symfony_black_01.png?itok=mh6RAYNa"  height="70px" width="70px"/> </a>
    <a href="https://www.oracle.com/fr/java/technologies/java-ee-glance.html" target="_blank"> <img src="https://ocs-consulting.be/wp-content/uploads/2018/03/java-ee-logo.png" width="48"/> </a> 
 	 <a href="https://www.php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"  height="50px" width="50px"/> </a>
    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="django"  height="50px" width="50px"/> </a>   
