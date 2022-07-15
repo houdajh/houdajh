@@ -51,6 +51,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
 ## 📊 My Github Stats
 
   <br/>
+  <p align="center">
     <a href="https://github.com/houdajh/github-readme-stats"><img alt="houdajh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=houdajh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/houdajh/github-readme-stats"><img alt="houdajh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houdajh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -61,7 +62,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
 <br/>
 
 <a href="https://github.com/houdajh/github-readme-activity-graph"><img alt="houdajh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=houdajh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+</p>
 <br/>
 <br/>
 
