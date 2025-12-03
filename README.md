@@ -12,70 +12,63 @@ I enjoy building scalable backend systems, secure APIs, and clean user interface
 
 ---
 ## 🚀 Tech Stack
-<p align="left">
+<div align="center">
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-    <br/>
-    <sub>Java</sub>
-  </div>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/>
+      <br/><sub>Java</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
-    <br/>
-    <sub>Spring Boot</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/spring-logo.png" height="40"/>
+      <br/><sub>Spring Boot</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
-    <br/>
-    <sub>React</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/react-native.png" height="40"/>
+      <br/><sub>React</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
-    <br/>
-    <sub>MySQL</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluent/48/mysql-logo.png" height="40"/>
+      <br/><sub>MySQL</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/git.png"/>
-    <br/>
-    <sub>Git</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/git.png" height="40"/>
+      <br/><sub>Git</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/fluency/48/keycloak.png"/>
-    <br/>
-    <sub>Keycloak</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/48/keycloak.png" height="40"/>
+      <br/><sub>Keycloak</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/security-checked.png"/>
-    <br/>
-    <sub>Spring Security</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/security-checked.png" height="40"/>
+      <br/><sub>Spring Security</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/database.png"/>
-    <br/>
-    <sub>Spring Data</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/database.png" height="40"/>
+      <br/><sub>Spring Data</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/workflow.png"/>
-    <br/>
-    <sub>Spring Batch</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/workflow.png" height="40"/>
+      <br/><sub>Spring Batch</sub>
+    </td>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img height="40" src="https://img.icons8.com/color/48/data-configuration.png"/>
-    <br/>
-    <sub>Liquibase</sub>
-  </div>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/data-configuration.png" height="40"/>
+      <br/><sub>Liquibase</sub>
+    </td>
+  </tr>
+</table>
 
-</p>
-
+</div>
 
 ---
 
