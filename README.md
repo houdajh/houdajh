@@ -67,7 +67,7 @@ I enjoy building scalable backend systems, secure APIs, and clean user interface
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=houdajh&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=houdajh&hide=css,javascript&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=houdajh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
