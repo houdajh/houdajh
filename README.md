@@ -70,7 +70,9 @@ I enjoy building scalable backend systems, secure APIs, and clean user interface
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=houdajh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
+<p align="center">
+  <sub>⚠️ Note: GitHub language stats reflect public repositories, not actual skill level.</sub>
+</p>
 
 
 ---
