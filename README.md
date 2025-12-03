@@ -19,6 +19,20 @@ I enjoy building scalable backend systems, secure APIs, and clean user interface
   <img src="https://img.icons8.com/color/48/react-native.png"/>
   <img src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/git.png"/>
+   <!-- Keycloak -->
+  <img src="https://img.icons8.com/fluency/48/keycloak.png"/>
+
+  <!-- Spring Security (bouclier de sécu générique) -->
+  <img src="https://img.icons8.com/color/48/security-checked.png"/>
+
+  <!-- Spring Data (base de données générique) -->
+  <img src="https://img.icons8.com/color/48/database.png"/>
+
+  <!-- Spring Batch (workflow / tasks) -->
+  <img src="https://img.icons8.com/color/48/workflow.png"/>
+
+  <!-- Liquibase (icône DB bleue) -->
+  <img src="https://img.icons8.com/color/48/data-configuration.png"/>
 </p>
 
 
