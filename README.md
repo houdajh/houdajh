@@ -12,27 +12,68 @@ I enjoy building scalable backend systems, secure APIs, and clean user interface
 
 ---
 ## 🚀 Tech Stack
-
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
-   <!-- Keycloak -->
-  <img src="https://img.icons8.com/fluency/48/keycloak.png"/>
 
-  <!-- Spring Security (bouclier de sécu générique) -->
-  <img src="https://img.icons8.com/color/48/security-checked.png"/>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+    <br/>
+    <sub>Java</sub>
+  </div>
 
-  <!-- Spring Data (base de données générique) -->
-  <img src="https://img.icons8.com/color/48/database.png"/>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
+    <br/>
+    <sub>Spring Boot</sub>
+  </div>
 
-  <!-- Spring Batch (workflow / tasks) -->
-  <img src="https://img.icons8.com/color/48/workflow.png"/>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
+    <br/>
+    <sub>React</sub>
+  </div>
 
-  <!-- Liquibase (icône DB bleue) -->
-  <img src="https://img.icons8.com/color/48/data-configuration.png"/>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
+    <br/>
+    <sub>MySQL</sub>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/git.png"/>
+    <br/>
+    <sub>Git</sub>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/fluency/48/keycloak.png"/>
+    <br/>
+    <sub>Keycloak</sub>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/security-checked.png"/>
+    <br/>
+    <sub>Spring Security</sub>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/database.png"/>
+    <br/>
+    <sub>Spring Data</sub>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/workflow.png"/>
+    <br/>
+    <sub>Spring Batch</sub>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img height="40" src="https://img.icons8.com/color/48/data-configuration.png"/>
+    <br/>
+    <sub>Liquibase</sub>
+  </div>
+
 </p>
 
 
